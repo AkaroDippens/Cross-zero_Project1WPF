@@ -1,0 +1,16 @@
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\bin\Debug\Cross-zero.exe.config
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\bin\Debug\Cross-zero.exe
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\bin\Debug\Cross-zero.pdb
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\Cross-zero.csproj.AssemblyReference.cache
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\Cross-zero.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\MainWindow.g.cs
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\App.g.cs
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\Cross-zero_MarkupCompile.cache
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\Cross-zero_MarkupCompile.lref
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\MainWindow.baml
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\Cross-zero.g.resources
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\Cross_zero.Properties.Resources.resources
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\Cross-zero.csproj.GenerateResource.cache
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\Cross-zero.csproj.CoreCompileInputs.cache
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\Cross-zero.exe
+C:\Users\mirzo\source\repos\Cross-zero\Cross-zero\obj\Debug\Cross-zero.pdb
